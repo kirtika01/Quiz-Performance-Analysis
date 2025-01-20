@@ -27,8 +27,11 @@ The goal of this analysis is to:
 Files Included:
 
 -> quiz_analysis.ipynb: Main Jupyter notebook that performs data analysis, calculates performance metrics, and generates recommendations.
+
 -> README.md: This file, describing the project and how to use it.
+
 -> requirements.txt: Contains the list of required Python libraries for this project.
+
 
 ## Output Description
 The notebook generates the following insights based on quiz performance:
