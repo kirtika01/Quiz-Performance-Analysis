@@ -5,16 +5,24 @@ This project analyzes student performance across various quizzes, identifies str
 The goal of this analysis is to:
 
 -> Explore patterns in student performance based on quiz scores, accuracy, and correctness.
+
 -> Identify weak areas and improvement trends.
+
 -> Provide personalized recommendations to improve quiz scores and accuracy.
+
 
 ### Key Features:
 
 -> Performance Summary for each quiz, including total score, average score, accuracy, correct/incorrect answers.
+
 -> Identification of poor-performing quizzes that need improvement.
+
 -> Personalized student persona based on their performance.
+
 -> Actionable recommendations to improve quiz performance based on weaknesses.
+
 -> User-wise performance analysis, suggesting quizzes to focus on for improvement.
+
 
 Files Included:
 
